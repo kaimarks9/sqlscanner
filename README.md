@@ -1,4 +1,4 @@
-# sqli-scanner
+# sqlscanner
 
 This is a sql vulnerability scanner, intended for a list of urls. This is made to be multi-process, so it's much much faster than traditional single thread/process scanning. 
 
